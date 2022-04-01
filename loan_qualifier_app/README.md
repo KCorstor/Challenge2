@@ -28,15 +28,13 @@ This section should include screenshots, code blocks, or animations explaining h
 Here are some of the filters that I'm using:
 
 [credit_score_filter](qualifier/filters/credit_score.py)
-[debt_to_income_filter](loan_qualifier_app/qualifier/filters/debt_to_income.py)
-[loan_to_value_filter](loan_qualifier_app/qualifier/filters/loan_to_value.py)
-[max_loan_size_filter](loan_qualifier_app/qualifier/filters/max_loan_size.py)
+[debt_to_income_filter](qualifier/filters/debt_to_income.py)
+[loan_to_value_filter](qualifier/filters/loan_to_value.py)
+[max_loan_size_filter](qualifier/filters/max_loan_size.py)
 
 
 
-
-
-(![<alt text>](<url>)
+(![picture of a tree](loan_qualifier_app/tree_picture.png)
 
 ---
 
