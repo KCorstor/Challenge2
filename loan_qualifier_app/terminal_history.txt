@@ -1,0 +1,1016 @@
+   50  cd /
+   51  ls
+   52  cd Users/kevincorstorphine/Documents/Code
+   53  pwd
+   54  $ git config --global user.name "Kcorstor"
+   55  $ git config --global user.name "Mona Lisa"
+   56  git config --list
+   57  git config [--global] user.name "Kcorstor"
+   58  $ git config --global user.name "Mona Lisa"
+   59  $ git config --global user.name "Mona Lisa"
+   60  $ git config
+   61  git config
+   62  git config --global user.name "Kcorstor"
+   63  git config -- global user.name
+   64  git config --global user.name
+   65  /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+   66  /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+   67  brew install git
+   68  (whoami) /usr/local/bin
+   69  chmod u+w /usr/local/bin
+   70  -R $(whoami) /usr/local/bin
+   71  -R $(whoami) /usr/local/bin
+   72  -R $(whoami) /usr/local/bin
+   73  sudo chown -R $(whoami) /usr/local/bin
+   74  sudo chown -R $(whoami) /usr/local/bin
+   75  chmod u+w /usr/local/bin
+   76  users/kevincorstorphine
+   77  /users/kevincorstorphine
+   78  ls -al ~/.ssh
+   79  ssh-keygen –t rsa –b 4096 –C "kevincorstorphine@gmail.com"
+   80  ssh-keygen –t rsa –b 4096 –C "kevincorstorphine@gmail.com"
+   81  ssh-keygen –t rsa –b 4096 "Kevincorstorphine@gmail.com"\n\n\n
+   82  ssh-keygen
+   83  eval "$(ssh-agent –s)"
+   84  ssh-add ~/.ssh/id_rsa
+   85  ssh-add ~/.ssh/id_rsa
+   86  eval "$(ssh-agent –s)"
+   87  ssh-add ~/.ssh/id_rsa
+   88  ssh-add ~/.ssh/id_rsa
+   89  id
+   90  id_rsa
+   91  ls -al ~/.sh
+   92  ls -al ~/.ssh
+   93  eval "$(ssh-agent –s)"
+   94  ssh-add ~/.ssh/id_rsa
+   95  ssh-add
+   96  ssh-add ~/.ssh/id_rsa
+   97  ls
+   98  ls -l
+   99  ls -a
+  100  cd .ssh
+  101  ls
+  102  ls 0a
+  103  ls -a
+  104  cd ..
+  105  ls -la
+  106  cd .ssh
+  107  ls
+  108  rm `ls`
+  109  ssh-keygen -t ed25519 -C "kevincorstorphine@gmail.com"
+  110  eval "$(ssh-agent -s)"
+  111  file ~/.ssh/config
+  112  pwd
+  113  ls
+  114  vi config
+  115  vi config
+  116  ssh-add -K ~/.ssh/id_ed25519
+  117  pbcopy < ~/.ssh/id_ed25519.pub
+  118  cd
+  119  ls
+  120  cd Documents/Code
+  121  ls
+  122  mkdir test
+  123  cd test
+  124  echo "# test" >> README.md\ngit init\ngit add README.md\ngit commit -m "first commit"\ngit branch -M main\ngit remote add origin https://github.com/KCorstor/test.git\ngit push -u origin main
+  125   git config --global user.name "Kevin Corstorphine"
+  126    git config --global user.email kevincorstorphine@gmail.com
+  127  git commit -m "first commit"
+  128  git status
+  129  git push
+  130  git remote add origin https://github.com/KCorstor/test.git
+  131  git push -u origin main
+  132  ssh -T git@github.com
+  133  git push -u origin main
+  134  cd
+  135  cd .ssh
+  136  ls
+  137  git push -u origin main
+  138  cd -
+  139  cd ~/Documents/Code
+  140  ls
+  141  cd test
+  142  ll
+  143  ls -a
+  144  git push -u origin main
+  145  git remote add origin git@github.com:KCorstor/test.git
+  146  git push -u origin main
+  147  cd ..
+  148  rm -rf test
+  149  eval "$(ssh-agent -s)"
+  150  ssh-add ~/.ssh/id_rsa
+  151  ssh-add ~/.ssh/id_rsa
+  152  ssh-keygen
+  153  ssh-keygen --help
+  154  /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+  155  conda --version
+  156  conda --version
+  157  conda update conda
+  158  conda update anaconda
+  159  conda create -n dev python=3.7 anaconda
+  160  conda activate dev
+  161  conda init bash
+  162  conda init zsh
+  163  python -m ipykernel install --user --name dev
+  164  python3 -m ipykernel install --user --name dev
+  165  which python
+  166  which python
+  167  which python3
+  168  python --version
+  169  conda install -c conda-forge nodejs
+  170  conda deactivate
+  171  cd Desktop
+  172  cd desktop
+  173  cd Desktop
+  174  cd desktop
+  175  cd Desktop
+  176  mkdir test
+  177  touch sample.txt
+  178  cd test
+  179  ls
+  180  cd ..
+  181  mv sample.txt test
+  182  ls
+  183  cd test
+  184  ls
+  185  touch sample2.txt
+  186  ls
+  187  git clone git@github.com:KCorstor/Demo.git
+  188  open git
+  189  open.
+  190  ~git
+  191  git
+  192  cd ~/git
+  193  cd ~/git
+  194  git@github.com:KCorstor/Demo.git
+  195  cd ~/desktop/git
+  196  git clone git@github.com:KCorstor/Demo.git
+  197  git clone git@github.com:KCorstor/Demo.git
+  198  git clone git@github.com:KCorstor/Demo.git
+  199  ~/git
+  200  ~/demo
+  201  ls
+  202  pwd
+  203  rm
+  204  rm -rf Demo
+  205  cd /documents/
+  206  cd Documents
+  207  cd Code
+  208  git clone git@github.com:KCorstor/Demo.git
+  209  ls
+  210  cd Demo
+  211  ls
+  212  cd demo
+  213  ls
+  214  git add -A
+  215  git commit -m "Added an index.html file"
+  216  git push origin master
+  217  git push origin master
+  218  git push
+  219  ls
+  220  git status
+  221  git commit page1.html -m "example"
+  222  git add page1.html
+  223  git status
+  224  git add page2.html
+  225  git add -A
+  226  git commit page1.html -m "example"
+  227  git status
+  228  git commit -am "both pages commit"
+  229  git status
+  230  git status
+  231  git commit -am "both pages commit"
+  232  git push
+  233  git status
+  234  git add -A
+  235  git commit -A
+  236  git commit -a
+  237  git commit -a
+  238  git commit -am "push it real good"
+  239  git push
+  240  git push
+  241  git commit page3.html
+  242  git commit -m "upasdflksd"
+  243  git commit -m "do it and go" page3.html
+  244  git push
+  245  git checkout -b header
+  246  git checkout -b mysexybranch
+  247  git checkout -b header
+  248  git checkout  header
+  249  git commit -m "test2" index.html
+  250  git push origin header
+  251  git checkout master
+  252  git fetch
+  253  git checkout master
+  254  git checkout main
+  255  git pull
+  256  conda activate dev
+  257  jupyter lab
+  258  conda deactivate
+  259  pwd
+  260  ls
+  261  cd desktop
+  262  pwd
+  263  ls
+  264  pwd
+  265  ls
+  266  mkdir FinTech-Workspace
+  267  cd FinTech-Workspace
+  268  ls
+  269  cd ..
+  270  cd ~
+  271  pwd
+  272  cd FinTech-Workspace
+  273  cd FinTech-Workspace
+  274  pwd
+  275  cd FinTech-Workspace
+  276  cd FinTech-Workspace/
+  277  cd Desktop
+  278  ls
+  279  pwd
+  280  ls
+  281  cd Desktop
+  282  ls
+  283  pwd
+  284  ls
+  285  cd FinTech-Workspace
+  286  cd Python_project/
+  287  ls
+  288  conda activate dec
+  289  conda activate dev
+  290  python --version
+  291  code .
+  292  code .
+  293  code .
+  294  python hello_python.py
+  295  conda deactivate
+  296  code.
+  297  code .
+  298  conda dev activate
+  299  conda activate dev
+  300  pwd
+  301  print Stock_Price_Lesson.py
+  302  print Stock_Price_Lesson.py
+  303  pwd
+  304  M1L3.py
+  305  python m1L3.py
+  306  python M1L3.py
+  307  python M1L3.py
+  308  python M1L3.py
+  309  python Skill_Drill.py
+  310  python Skill_Drill.py
+  311  python Skill_Drill.py
+  312  python Skill_Drill.py
+  313  python Skill_Drill.py
+  314  print
+  315  python Skill_Drill.py
+  316  python Skill_Drill.py
+  317  python Skill_Drill.py
+  318  python Skill_Drill.py
+  319  pwd
+  320  ls
+  321  cd Desktop
+  322  ls
+  323  ls
+  324  cd desktop
+  325  ls
+  326  cd FinTech-Workspace
+  327  ls
+  328  cd Python_Project
+  329  ls
+  330  python Skill_Drill.py
+  331  python M1L3.py
+  332  python M1L3.py
+  333  python hello_variable_world.py
+  334  ls
+  335  ls
+  336  /usr/local/bin/python3
+  337  pwd
+  338  ls
+  339  cd 02_Listing_assets
+  340  ls
+  341  cd unsolved
+  342  python listing_assets.py
+  343  python
+  344  pwd
+  345  cd desktop
+  346  ls
+  347  ls
+  348  cd FinTech-Workspace
+  349  ls
+  350  cd variable project
+  351  cd Variable Project
+  352  pwd
+  353  cd Variable Project
+  354  ls
+  355  cd Variable_project
+  356  python 01_Hello Variable_World..py
+  357  ls
+  358  cd ..
+  359  cd Variable_Project
+  360  python hello_variable_world.py
+  361  python hello_variable_world.py
+  362  python hello_variable_world.py
+  363  python hello_variable_world.py
+  364  python hello_variable_world.py
+  365  pwd
+  366  ls
+  367  cd ..
+  368  ls
+  369  cd Python_Project
+  370  ls
+  371  python Movie_Star_Project.py
+  372  python Movie_Star_Project.py
+  373  python Movie_Star_Project.py
+  374  python Movie_Star_Project.py
+  375  ls
+  376  python listing_assets.py
+  377  pwd
+  378  ls
+  379  cd 02_Listing_Assets
+  380  pwd
+  381  ls
+  382  desktop
+  383  cd desktop
+  384  ls
+  385  pwd
+  386  cd Fintech-Workspace
+  387  ls
+  388  cd 03_The401k_Shuffle
+  389  cd 03_The_401k_Shuffle
+  390  cd  03_The_401k_Shuffle.py
+  391  cd  03_the_401k_Shuffle.py
+  392  cd  03_the_401k_shuffle.py
+  393  cd  03_the_401k_shuffle.py
+  394  pwd
+  395  ls
+  396  cd unsolved
+  397  cd  03_the_401k_shuffle.py
+  398  cd the_401k_shuffle.py
+  399  cd the_401k_shuffle.py
+  400  ls
+  401  python the_401k_shuffle.py
+  402  pwd
+  403  ls
+  404  python the_401k_shuffle.py
+  405  python the_401k_shuffle.py
+  406  pwd
+  407  ls
+  408  cd Fintech-Workspace
+  409  cd FinTech-Workspace
+  410  cd desktop
+  411  ls
+  412  cd FinTech-Workspace
+  413  ls
+  414  cd DRY.py
+  415  python DRY.py
+  416  python DRY.py
+  417  ls
+  418  cd 02_Listing_Assets
+  419  ls
+  420  cd Unsolved
+  421  ls
+  422  python listing_assets.py
+  423  python listing_assets.py
+  424  python listing_assets.py
+  425  python listing_assets.py
+  426  python listing_assets.py
+  427  pwd
+  428  cd ..
+  429  cd..
+  430  ls
+  431  cd ..
+  432  ls
+  433  cd Key_Value
+  434  ls
+  435  python Key_Value.py
+  436  /usr/local/bin/python3 /Users/kevincorstorphine/Desktop/FinTech-Workspace/03_The_401k_Shuffle/Unsolved/the_401k_shuffle.py
+  437  /usr/local/bin/python3 /Users/kevincorstorphine/Desktop/FinTech-Workspace/03_The_401k_Shuffle/Unsolved/the_401k_shuffle.py
+  438  /usr/local/bin/python3 /Users/kevincorstorphine/Desktop/FinTech-Workspace/03_The_401k_Shuffle/Unsolved/the_401k_shuffle.py
+  439  /usr/local/bin/python3 /Users/kevincorstorphine/Desktop/FinTech-Workspace/03_The_401k_Shuffle/Unsolved/the_401k_shuffle.py
+  440  /usr/local/bin/python3 /Users/kevincorstorphine/Desktop/FinTech-Workspace/03_The_401k_Shuffle/Unsolved/the_401k_shuffle.py
+  441  /usr/local/bin/python3 /Users/kevincorstorphine/Desktop/FinTech-Workspace/03_The_401k_Shuffle/Unsolved/the_401k_shuffle.py
+  442  /usr/local/bin/python3 /Users/kevincorstorphine/Desktop/FinTech-Workspace/03_The_401k_Shuffle/Unsolved/the_401k_shuffle.py
+  443  /usr/local/bin/python3 /Users/kevincorstorphine/Desktop/FinTech-Workspace/03_The_401k_Shuffle/Unsolved/the_401k_shuffle.py
+  444  pwd
+  445  /usr/local/bin/python3 /Users/kevincorstorphine/Desktop/FinTech-Workspace/03_The_401k_Shuffle/Unsolved/the_401k_shuffle.py
+  446  /usr/local/bin/python3 /Users/kevincorstorphine/Desktop/FinTech-Workspace/03_The_401k_Shuffle/Unsolved/the_401k_shuffle.py
+  447  /usr/local/bin/python3 /Users/kevincorstorphine/Desktop/FinTech-Workspace/03_The_401k_Shuffle/Unsolved/the_401k_shuffle.py
+  448  /usr/local/bin/python3 /Users/kevincorstorphine/Desktop/FinTech-Workspace/03_The_401k_Shuffle/Unsolved/the_401k_shuffle.py
+  449  /usr/local/bin/python3 /Users/kevincorstorphine/Desktop/FinTech-Workspace/03_The_401k_Shuffle/Unsolved/the_401k_shuffle.py
+  450  /usr/local/bin/python3 /Users/kevincorstorphine/Desktop/FinTech-Workspace/03_The_401k_Shuffle/Unsolved/the_401k_shuffle.py
+  451  /usr/local/bin/python3 /Users/kevincorstorphine/Desktop/FinTech-Workspace/03_The_401k_Shuffle/Unsolved/the_401k_shuffle.py
+  452  /usr/local/bin/python3 /Users/kevincorstorphine/Desktop/FinTech-Workspace/03_The_401k_Shuffle/Unsolved/the_401k_shuffle.py
+  453  /usr/local/bin/python3 /Users/kevincorstorphine/Desktop/FinTech-Workspace/03_The_401k_Shuffle/Unsolved/the_401k_shuffle.py
+  454  /usr/local/bin/python3 /Users/kevincorstorphine/Desktop/FinTech-Workspace/03_The_401k_Shuffle/Unsolved/the_401k_shuffle.py
+  455  /usr/local/bin/python3 /Users/kevincorstorphine/Desktop/FinTech-Workspace/03_The_401k_Shuffle/Unsolved/the_401k_shuffle.py
+  456  /usr/local/bin/python3 /Users/kevincorstorphine/Desktop/FinTech-Workspace/03_The_401k_Shuffle/Unsolved/the_401k_shuffle.py
+  457  /usr/local/bin/python3 /Users/kevincorstorphine/Desktop/FinTech-Workspace/03_The_401k_Shuffle/Unsolved/the_401k_shuffle.py
+  458  /usr/local/bin/python3 /Users/kevincorstorphine/Desktop/FinTech-Workspace/03_The_401k_Shuffle/Unsolved/the_401k_shuffle.py
+  459  /usr/local/bin/python3 /Users/kevincorstorphine/Desktop/FinTech-Workspace/03_The_401k_Shuffle/Unsolved/the_401k_shuffle.py
+  460  /usr/local/bin/python3 /Users/kevincorstorphine/Desktop/FinTech-Workspace/03_The_401k_Shuffle/Conditionals/Conditionals.py
+  461  /usr/local/bin/python3 /Users/kevincorstorphine/Desktop/FinTech-Workspace/03_The_401k_Shuffle/Conditionals/Conditionals.py
+  462  /usr/local/bin/python3 /Users/kevincorstorphine/Desktop/FinTech-Workspace/03_The_401k_Shuffle/Conditionals/Conditionals.py
+  463  /usr/local/bin/python3 /Users/kevincorstorphine/Desktop/FinTech-Workspace/01_Conditional_Statement/Unsolved/conditional_statement.py
+  464  /usr/local/bin/python3 /Users/kevincorstorphine/Desktop/FinTech-Workspace/01_Conditional_Statement/Unsolved/conditional_statement.py
+  465  /usr/local/bin/python3 /Users/kevincorstorphine/Desktop/FinTech-Workspace/01_Conditional_Statement/Unsolved/conditional_statement.py
+  466  /usr/local/bin/python3 /Users/kevincorstorphine/Desktop/FinTech-Workspace/01_Conditional_Statement/Unsolved/conditional_statement.py
+  467  /usr/local/bin/python3 /Users/kevincorstorphine/Desktop/FinTech-Workspace/01_Conditional_Statement/Unsolved/conditional_statement.py
+  468  /usr/local/bin/python3 /Users/kevincorstorphine/Desktop/FinTech-Workspace/01_Conditional_Statement/Unsolved/conditional_statement.py
+  469  /usr/local/bin/python3 /Users/kevincorstorphine/Desktop/FinTech-Workspace/01_Conditional_Statement/Unsolved/conditional_statement.py
+  470  /usr/local/bin/python3 /Users/kevincorstorphine/Desktop/FinTech-Workspace/01_Conditional_Statement/Unsolved/conditional_statement.py
+  471  /usr/local/bin/python3 /Users/kevincorstorphine/Desktop/FinTech-Workspace/01_Conditional_Statement/Unsolved/conditional_statement.py
+  472  /usr/local/bin/python3 /Users/kevincorstorphine/Desktop/FinTech-Workspace/01_Conditional_Statement/Unsolved/conditional_statement.py
+  473  /usr/local/bin/python3 /Users/kevincorstorphine/Desktop/FinTech-Workspace/01_Conditional_Statement/Unsolved/conditional_statement.py
+  474  /usr/local/bin/python3 /Users/kevincorstorphine/Desktop/FinTech-Workspace/01_Conditional_Statement/Unsolved/conditional_statement.py
+  475  /usr/local/bin/python3 /Users/kevincorstorphine/Desktop/FinTech-Workspace/03_The_401k_Shuffle/144.py
+  476  /usr/local/bin/python3 /Users/kevincorstorphine/Desktop/FinTech-Workspace/02_Nested_Conditionals/Unsolved/nested_conditionals.py
+  477  /usr/local/bin/python3 /Users/kevincorstorphine/Desktop/FinTech-Workspace/02_Nested_Conditionals/Unsolved/nested_conditionals.py
+  478  /usr/local/bin/python3 /Users/kevincorstorphine/Desktop/FinTech-Workspace/02_Nested_Conditionals/Unsolved/nested_conditionals.py
+  479  /usr/local/bin/python3 /Users/kevincorstorphine/Desktop/FinTech-Workspace/02_Nested_Conditionals/Unsolved/nested_conditionals.py
+  480  /usr/local/bin/python3 /Users/kevincorstorphine/Desktop/FinTech-Workspace/02_Nested_Conditionals/Unsolved/nested_conditionals.py
+  481  /usr/local/bin/python3 /Users/kevincorstorphine/Desktop/FinTech-Workspace/02_Nested_Conditionals/Unsolved/nested_conditionals.py
+  482  /usr/local/bin/python3 /Users/kevincorstorphine/Desktop/FinTech-Workspace/02_Nested_Conditionals/Unsolved/nested_conditionals.py
+  483  /usr/local/bin/python3 /Users/kevincorstorphine/Desktop/FinTech-Workspace/03_Split_Second_Homebuying/Unsolved/split_second_homebuying.py
+  484  /usr/local/bin/python3 /Users/kevincorstorphine/Desktop/FinTech-Workspace/03_Split_Second_Homebuying/Unsolved/split_second_homebuying.py
+  485  /usr/local/bin/python3 /Users/kevincorstorphine/Desktop/FinTech-Workspace/03_Split_Second_Homebuying/Unsolved/split_second_homebuying.py
+  486  /usr/local/bin/python3 /Users/kevincorstorphine/Desktop/FinTech-Workspace/DRY.py
+  487  /usr/local/bin/python3 /Users/kevincorstorphine/Desktop/FinTech-Workspace/DRY.py
+  488  /usr/local/bin/python3 /Users/kevincorstorphine/Desktop/FinTech-Workspace/DRY.py
+  489  /usr/local/bin/python3 /Users/kevincorstorphine/Desktop/FinTech-Workspace/DRY.py
+  490  /usr/local/bin/python3 /Users/kevincorstorphine/Desktop/FinTech-Workspace/DRY.py
+  491  /usr/local/bin/python3 /Users/kevincorstorphine/Desktop/FinTech-Workspace/DRY.py
+  492  /usr/local/bin/python3 /Users/kevincorstorphine/Desktop/FinTech-Workspace/DRY.py
+  493  /usr/local/bin/python3 /Users/kevincorstorphine/Desktop/FinTech-Workspace/DRY.py
+  494  /usr/local/bin/python3 /Users/kevincorstorphine/Desktop/FinTech-Workspace/DRY.py
+  495  /usr/local/bin/python3 /Users/kevincorstorphine/Desktop/FinTech-Workspace/DRY.py
+  496  /usr/local/bin/python3 /Users/kevincorstorphine/Desktop/FinTech-Workspace/DRY.py
+  497  /usr/local/bin/python3 /Users/kevincorstorphine/Desktop/FinTech-Workspace/DRY.py
+  498  /usr/local/bin/python3 /Users/kevincorstorphine/Desktop/FinTech-Workspace/DRY.py
+  499  /usr/local/bin/python3 /Users/kevincorstorphine/Desktop/FinTech-Workspace/DRY.py
+  500  /usr/local/bin/python3 /Users/kevincorstorphine/Desktop/FinTech-Workspace/DRY.py
+  501  /usr/local/bin/python3 /Users/kevincorstorphine/Desktop/FinTech-Workspace/DRY.py
+  502  /usr/local/bin/python3 /Users/kevincorstorphine/Desktop/FinTech-Workspace/DRY.py
+  503  /usr/local/bin/python3 /Users/kevincorstorphine/Desktop/FinTech-Workspace/DRY.py
+  504  /usr/local/bin/python3 /Users/kevincorstorphine/Desktop/FinTech-Workspace/01_A_Definitive_Buy/Unsolved/a_definitive_buy.py
+  505  /usr/local/bin/python3 /Users/kevincorstorphine/Desktop/FinTech-Workspace/01_A_Definitive_Buy/Unsolved/a_definitive_buy.py
+  506  /usr/local/bin/python3 /Users/kevincorstorphine/Desktop/FinTech-Workspace/01_A_Definitive_Buy/Unsolved/a_definitive_buy.py
+  507  /usr/local/bin/python3 /Users/kevincorstorphine/Desktop/FinTech-Workspace/02_Returned_Goods/Unsolved/returned_goods.py
+  508  /usr/local/bin/python3 /Users/kevincorstorphine/Desktop/FinTech-Workspace/02_Returned_Goods/Unsolved/returned_goods.py
+  509  /usr/local/bin/python3 /Users/kevincorstorphine/Desktop/FinTech-Workspace/03_Split_Second_Homebuying_Part_2/Unsolved/split_second_part_2.py
+  510  /usr/local/bin/python3 /Users/kevincorstorphine/Desktop/FinTech-Workspace/03_Split_Second_Homebuying_Part_2/Unsolved/split_second_part_2.py
+  511  /usr/local/bin/python3 /Users/kevincorstorphine/Desktop/FinTech-Workspace/03_Split_Second_Homebuying_Part_2/Unsolved/split_second_part_2.py
+  512  /usr/local/bin/python3 /Users/kevincorstorphine/Desktop/FinTech-Workspace/03_Split_Second_Homebuying_Part_2/Unsolved/split_second_part_2.py
+  513  /usr/local/bin/python3 /Users/kevincorstorphine/Desktop/FinTech-Workspace/03_Split_Second_Homebuying_Part_2/Unsolved/split_second_part_2.py
+  514  /usr/local/bin/python3 /Users/kevincorstorphine/Desktop/FinTech-Workspace/03_Split_Second_Homebuying_Part_2/Unsolved/split_second_part_2.py
+  515  /usr/local/bin/python3 /Users/kevincorstorphine/Desktop/FinTech-Workspace/03_Split_Second_Homebuying_Part_2/Unsolved/split_second_part_2.py
+  516  /usr/local/bin/python3 /Users/kevincorstorphine/Desktop/FinTech-Workspace/Class_2_Activities/nefwaer.py
+  517  /usr/local/bin/python3 /Users/kevincorstorphine/Desktop/FinTech-Workspace/Class_2_Activities/nefwaer.py
+  518  /usr/local/bin/python3 /Users/kevincorstorphine/Desktop/FinTech-Workspace/Class_2_Activities/nefwaer.py
+  519  /usr/local/bin/python3 /Users/kevincorstorphine/Desktop/FinTech-Workspace/Class_2_Activities/nefwaer.py
+  520  clear
+  521  /usr/local/bin/python3 /Users/kevincorstorphine/Desktop/FinTech-Workspace/Class_2_Activities/nefwaer.py
+  522  /usr/local/bin/python3 /Users/kevincorstorphine/Desktop/FinTech-Workspace/Class_2_Activities/nefwaer.py
+  523  /usr/local/bin/python3 /Users/kevincorstorphine/Desktop/FinTech-Workspace/Class_2_Activities/nefwaer.py
+  524  /usr/local/bin/python3 /Users/kevincorstorphine/Desktop/FinTech-Workspace/Class_2_Activities/nefwaer.py
+  525  /usr/local/bin/python3 /Users/kevincorstorphine/Downloads/01_Racking_Up_The_Profit/Unsolved/racking_up_the_profit.py
+  526  /usr/local/bin/python3 /Users/kevincorstorphine/Downloads/01_Racking_Up_The_Profit/Unsolved/racking_up_the_profit.py
+  527  /usr/local/bin/python3 /Users/kevincorstorphine/Downloads/01_Racking_Up_The_Profit/Unsolved/racking_up_the_profit.py
+  528  /usr/local/bin/python3 /Users/kevincorstorphine/Downloads/01_Racking_Up_The_Profit/Unsolved/racking_up_the_profit.py
+  529  /usr/local/bin/python3 /Users/kevincorstorphine/Downloads/01_Racking_Up_The_Profit/Unsolved/racking_up_the_profit.py
+  530  /usr/local/bin/python3 /Users/kevincorstorphine/Downloads/01_Racking_Up_The_Profit/Solved/racking_up_the_profit.py
+  531  /usr/local/bin/python3 /Users/kevincorstorphine/Desktop/FinTech-Workspace/new.py
+  532  /usr/local/bin/python3 /Users/kevincorstorphine/Desktop/FinTech-Workspace/new.py
+  533  /usr/local/bin/python3 /Users/kevincorstorphine/Desktop/FinTech-Workspace/new.py
+  534  /usr/local/bin/python3 /Users/kevincorstorphine/Desktop/FinTech-Workspace/import.py
+  535  /usr/local/bin/python3 /Users/kevincorstorphine/Desktop/FinTech-Workspace/import.py
+  536  /usr/local/bin/python3 /Users/kevincorstorphine/Downloads/02_Pathways_to_Success_Part_1/Unsolved/pathways_to_success.py
+  537  /usr/local/bin/python3 /Users/kevincorstorphine/Downloads/01_Read_and_Write_CSV/1.6.8.py
+  538  clear
+  539  /usr/local/bin/python3 /Users/kevincorstorphine/Downloads/01_Read_and_Write_CSV/1.6.8.py
+  540  /usr/local/bin/python3 /Users/kevincorstorphine/Downloads/01_Read_and_Write_CSV/1.6.8.py
+  541  pwd
+  542  cd ..
+  543  ls
+  544  cd desktop
+  545  cd //Users/kevincorstorphine/Downloads/01_Read_and_Write_CSV
+  546  /usr/local/bin/python3 /Users/kevincorstorphine/Downloads/01_Read_and_Write_CSV/1.6.8.py
+  547  cd /Users/kevincorstorphine/Downloads/03_Pathways_to_Success_Part_2/Unsolved
+  548  /usr/local/bin/python3 /Users/kevincorstorphine/Downloads/01_Read_and_Write_CSV/1.6.8.py
+  549  /usr/local/bin/python3 /Users/kevincorstorphine/Downloads/03_Pathways_to_Success_Part_2/Unsolved/pathways_to_success_part_2.py
+  550  /usr/local/bin/python3 /Users/kevincorstorphine/Downloads/03_Pathways_to_Success_Part_2/Solved/pathways_to_success_part_2.py
+  551  /usr/local/bin/python3 /Users/kevincorstorphine/Desktop/FinTech-Workspace/asdf.py
+  552  /usr/local/bin/python3 /Users/kevincorstorphine/Desktop/FinTech-Workspace/asdf.py
+  553  /usr/local/bin/python3 /Users/kevincorstorphine/Downloads/02_Pathways_to_Success_Part_1/Unsolved/pathways_to_success.py
+  554  /usr/local/bin/python3 /Users/kevincorstorphine/Downloads/02_Pathways_to_Success_Part_1/Unsolved/pathways_to_success.py
+  555  /usr/local/bin/python3 /Users/kevincorstorphine/Downloads/01_Read_and_Write_CSV/1.6.8.py
+  556  /usr/local/bin/python3 /Users/kevincorstorphine/Downloads/01_Read_and_Write_CSV/1.6.8.py
+  557  /usr/local/bin/python3 /Users/kevincorstorphine/Downloads/01_Read_and_Write_CSV/1.6.8.py
+  558  /usr/local/bin/python3 /Users/kevincorstorphine/Downloads/01_Read_and_Write_CSV/1.6.8.py
+  559  /usr/local/bin/python3 /Users/kevincorstorphine/Downloads/01_Read_and_Write_CSV/1.6.8.py
+  560  /usr/local/bin/python3 /Users/kevincorstorphine/Downloads/01_Read_and_Write_CSV/1.6.8.py
+  561  /usr/local/bin/python3 /Users/kevincorstorphine/Downloads/01_Read_and_Write_CSV/1.6.8.py
+  562  /usr/local/bin/python3 /Users/kevincorstorphine/Downloads/01_Read_and_Write_CSV/1.6.8.py
+  563  /usr/local/bin/python3 /Users/kevincorstorphine/Downloads/01_Read_and_Write_CSV/1.6.8.py
+  564  /usr/local/bin/python3 /Users/kevincorstorphine/Downloads/01_Read_and_Write_CSV/1.6.8.py
+  565  /usr/local/bin/python3 /Users/kevincorstorphine/Downloads/03_Pathways_to_Success_Part_2/Unsolved/pathways_to_success_part_2.py
+  566  /usr/local/bin/python3 /Users/kevincorstorphine/Downloads/03_Pathways_to_Success_Part_2/Unsolved/pathways_to_success_part_2.py
+  567  /usr/local/bin/python3 /Users/kevincorstorphine/Downloads/03_Pathways_to_Success_Part_2/Unsolved/pathways_to_success_part_2.py
+  568  /usr/local/bin/python3 /Users/kevincorstorphine/Downloads/03_Pathways_to_Success_Part_2/Unsolved/pathways_to_success_part_2.py
+  569  /usr/local/bin/python3 /Users/kevincorstorphine/Downloads/03_Pathways_to_Success_Part_2/Unsolved/pathways_to_success_part_2.py
+  570  /usr/local/bin/python3 /Users/kevincorstorphine/Downloads/03_Pathways_to_Success_Part_2/Unsolved/pathways_to_success_part_2.py
+  571  /usr/local/bin/python3 /Users/kevincorstorphine/Downloads/03_Pathways_to_Success_Part_2/Unsolved/pathways_to_success_part_2.py
+  572  /usr/local/bin/python3 /Users/kevincorstorphine/Downloads/03_Pathways_to_Success_Part_2/Unsolved/pathways_to_success_part_2.py
+  573  /usr/local/bin/python3 /Users/kevincorstorphine/Downloads/03_Pathways_to_Success_Part_2/Unsolved/pathways_to_success_part_2.py
+  574  /usr/local/bin/python3 /Users/kevincorstorphine/Downloads/03_Pathways_to_Success_Part_2/Unsolved/pathways_to_success_part_2.py
+  575  clear
+  576  /usr/local/bin/python3 /Users/kevincorstorphine/Downloads/04_Automating_Equity_Rounds/Unsolved/automated_equity_rounds.py
+  577  /usr/local/bin/python3 /Users/kevincorstorphine/Downloads/04_Automating_Equity_Rounds/Unsolved/automated_equity_rounds.py
+  578  /usr/local/bin/python3 /Users/kevincorstorphine/Downloads/04_Automating_Equity_Rounds/Unsolved/automated_equity_rounds.py
+  579  /usr/local/bin/python3 /Users/kevincorstorphine/Downloads/04_Automating_Equity_Rounds/Unsolved/automated_equity_rounds.py
+  580  /usr/local/bin/python3 /Users/kevincorstorphine/Downloads/04_Automating_Equity_Rounds/Unsolved/automated_equity_rounds.py
+  581  /usr/local/bin/python3 /Users/kevincorstorphine/Downloads/04_Automating_Equity_Rounds/Unsolved/automated_equity_rounds.py
+  582  /usr/local/bin/python3 /Users/kevincorstorphine/Downloads/04_Automating_Equity_Rounds/Unsolved/automated_equity_rounds.py
+  583  clear
+  584  /usr/local/bin/python3 "/Users/kevincorstorphine/Desktop/Real Github Upload/loan_analyzer.py"
+  585  /usr/local/bin/python3 "/Users/kevincorstorphine/Desktop/Real Github Upload/loan_analyzer.py"
+  586  /usr/local/bin/python3 "/Users/kevincorstorphine/Desktop/Real Github Upload/loan_analyzer.py"
+  587  /usr/local/bin/python3 "/Users/kevincorstorphine/Desktop/Real Github Upload/loan_analyzer.py"
+  588  clear
+  589  /usr/local/bin/python3 "/Users/kevincorstorphine/Desktop/Real Github Upload/loan_analyzer.py"
+  590  /usr/local/bin/python3 "/Users/kevincorstorphine/Desktop/Real Github Upload/loan_analyzer.py"
+  591  /usr/local/bin/python3 "/Users/kevincorstorphine/Desktop/Real Github Upload/loan_analyzer.py"
+  592  /usr/local/bin/python3 "/Users/kevincorstorphine/Desktop/Real Github Upload/loan_analyzer.py"
+  593  /usr/local/bin/python3 "/Users/kevincorstorphine/Desktop/Real Github Upload/loan_analyzer.py"
+  594  /usr/local/bin/python3 "/Users/kevincorstorphine/Desktop/Real Github Upload/loan_analyzer.py"
+  595  /usr/local/bin/python3 "/Users/kevincorstorphine/Desktop/Real Github Upload/loan_analyzer.py"
+  596  /usr/local/bin/python3 "/Users/kevincorstorphine/Desktop/Real Github Upload/loan_analyzer.py"
+  597  /usr/local/bin/python3 "/Users/kevincorstorphine/Desktop/Real Github Upload/loan_analyzer.py"
+  598  clear
+  599  /usr/local/bin/python3 "/Users/kevincorstorphine/Desktop/Real Github Upload/loan_analyzer.py"
+  600  clear
+  601  /usr/local/bin/python3 "/Users/kevincorstorphine/Desktop/Real Github Upload/loan_analyzer.py"
+  602  /usr/local/bin/python3 "/Users/kevincorstorphine/Desktop/Real Github Upload/loan_analyzer.py"
+  603  clear
+  604  /usr/local/bin/python3 "/Users/kevincorstorphine/Desktop/Real Github Upload/loan_analyzer.py"
+  605  /usr/local/bin/python3 "/Users/kevincorstorphine/Desktop/Real Github Upload/loan_analyzer.py"
+  606  /usr/local/bin/python3 "/Users/kevincorstorphine/Desktop/Real Github Upload/loan_analyzer.py"
+  607  /usr/local/bin/python3 "/Users/kevincorstorphine/Desktop/Real Github Upload/loan_analyzer.py"
+  608  /usr/local/bin/python3 "/Users/kevincorstorphine/Desktop/Real Github Upload/loan_analyzer.py"
+  609  clear
+  610  /usr/local/bin/python3 "/Users/kevincorstorphine/Desktop/Real Github Upload/loan_analyzer.py"
+  611  /usr/local/bin/python3 "/Users/kevincorstorphine/Desktop/Real Github Upload/loan_analyzer.py"
+  612  /usr/local/bin/python3 "/Users/kevincorstorphine/Desktop/Real Github Upload/loan_analyzer.py"
+  613  /usr/local/bin/python3 "/Users/kevincorstorphine/Desktop/Real Github Upload/loan_analyzer.py"
+  614  /usr/local/bin/python3 "/Users/kevincorstorphine/Desktop/Real Github Upload/loan_analyzer.py"
+  615  /usr/local/bin/python3 "/Users/kevincorstorphine/Desktop/Real Github Upload/loan_analyzer.py"
+  616  /usr/local/bin/python3 "/Users/kevincorstorphine/Desktop/Real Github Upload/loan_analyzer.py"
+  617  clear
+  618  /usr/local/bin/python3 "/Users/kevincorstorphine/Desktop/Real Github Upload/loan_analyzer.py"
+  619  /usr/local/bin/python3 "/Users/kevincorstorphine/Desktop/Real Github Upload/loan_analyzer.py"
+  620  /usr/local/bin/python3 "/Users/kevincorstorphine/Desktop/Real Github Upload/loan_analyzer.py"
+  621  /usr/local/bin/python3 "/Users/kevincorstorphine/Desktop/Real Github Upload/loan_analyzer.py"
+  622  /usr/local/bin/python3 "/Users/kevincorstorphine/Desktop/Real Github Upload/loan_analyzer.py"
+  623  /usr/local/bin/python3 "/Users/kevincorstorphine/Desktop/Real Github Upload/loan_analyzer.py"
+  624  clear
+  625  /usr/local/bin/python3 "/Users/kevincorstorphine/Desktop/Real Github Upload/loan_analyzer.py"
+  626  clear
+  627  /usr/local/bin/python3 "/Users/kevincorstorphine/Desktop/Real Github Upload/loan_analyzer.py"
+  628  /usr/local/bin/python3 "/Users/kevincorstorphine/Desktop/Real Github Upload/loan_analyzer.py"
+  629  /usr/local/bin/python3 "/Users/kevincorstorphine/Desktop/Real Github Upload/loan_analyzer.py"
+  630  clear
+  631  /usr/local/bin/python3 "/Users/kevincorstorphine/Desktop/Real Github Upload/loan_analyzer.py"
+  632  /usr/local/bin/python3 "/Users/kevincorstorphine/Desktop/Real Github Upload/loan_analyzer.py"
+  633  /usr/local/bin/python3 "/Users/kevincorstorphine/Desktop/Real Github Upload/loan_analyzer.py"
+  634  /usr/local/bin/python3 "/Users/kevincorstorphine/Desktop/Real Github Upload/loan_analyzer.py"
+  635  clear
+  636  /usr/local/bin/python3 "/Users/kevincorstorphine/Desktop/Real Github Upload/loan_analyzer.py"
+  637  /usr/local/bin/python3 "/Users/kevincorstorphine/Desktop/Real Github Upload/loan_analyzer.py"
+  638  clear
+  639  /usr/local/bin/python3 "/Users/kevincorstorphine/Desktop/Real Github Upload/loan_analyzer.py"
+  640  clear
+  641  /usr/local/bin/python3 "/Users/kevincorstorphine/Desktop/Real Github Upload/loan_analyzer.py"
+  642  /usr/local/bin/python3 "/Users/kevincorstorphine/Desktop/Real Github Upload/loan_analyzer.py"
+  643  /usr/local/bin/python3 "/Users/kevincorstorphine/Desktop/Real Github Upload/loan_analyzer.py"
+  644  /usr/local/bin/python3 "/Users/kevincorstorphine/Desktop/Real Github Upload/loan_analyzer.py"
+  645  clear
+  646  /usr/local/bin/python3 "/Users/kevincorstorphine/Desktop/Real Github Upload/loan_analyzer.py"
+  647  clear
+  648  /usr/local/bin/python3 "/Users/kevincorstorphine/Desktop/Real Github Upload/loan_analyzer.py"
+  649  /usr/local/bin/python3 "/Users/kevincorstorphine/Desktop/Real Github Upload/loan_analyzer.py"
+  650  /usr/local/bin/python3 "/Users/kevincorstorphine/Desktop/Real Github Upload/loan_analyzer.py"
+  651  /usr/local/bin/python3 "/Users/kevincorstorphine/Desktop/Real Github Upload/loan_analyzer.py"
+  652  /usr/local/bin/python3 "/Users/kevincorstorphine/Desktop/Real Github Upload/loan_analyzer.py"
+  653  clear
+  654  /usr/local/bin/python3 "/Users/kevincorstorphine/Desktop/Real Github Upload/loan_analyzer.py"
+  655  /usr/local/bin/python3 "/Users/kevincorstorphine/Desktop/Real Github Upload/loan_analyzer.py"
+  656  /usr/local/bin/python3 "/Users/kevincorstorphine/Desktop/Real Github Upload/loan_analyzer.py"
+  657  /usr/local/bin/python3 "/Users/kevincorstorphine/Desktop/Real Github Upload/loan_analyzer.py"
+  658  /usr/local/bin/python3 "/Users/kevincorstorphine/Desktop/Real Github Upload/loan_analyzer.py"
+  659  clear
+  660  /usr/local/bin/python3 "/Users/kevincorstorphine/Desktop/Real Github Upload/loan_analyzer.py"
+  661  /usr/local/bin/python3 "/Users/kevincorstorphine/Desktop/Real Github Upload/loan_analyzer.py"
+  662  /usr/local/bin/python3 "/Users/kevincorstorphine/Desktop/Real Github Upload/loan_analyzer.py"
+  663  /usr/local/bin/python3 "/Users/kevincorstorphine/Desktop/Real Github Upload/loan_analyzer.py"
+  664  /usr/local/bin/python3 "/Users/kevincorstorphine/Desktop/Real Github Upload/loan_analyzer.py"
+  665  /usr/local/bin/python3 "/Users/kevincorstorphine/Desktop/Real Github Upload/loan_analyzer.py"
+  666  clear
+  667  /usr/local/bin/python3 "/Users/kevincorstorphine/Desktop/Real Github Upload/loan_analyzer.py"
+  668  /usr/local/bin/python3 "/Users/kevincorstorphine/Desktop/Real Github Upload/loan_analyzer.py"
+  669  /usr/local/bin/python3 "/Users/kevincorstorphine/Desktop/Real Github Upload/loan_analyzer.py"
+  670  /usr/local/bin/python3 "/Users/kevincorstorphine/Desktop/Real Github Upload/loan_analyzer.py"
+  671  /usr/local/bin/python3 "/Users/kevincorstorphine/Desktop/Real Github Upload/loan_analyzer.py"
+  672  /usr/local/bin/python3 "/Users/kevincorstorphine/Desktop/Real Github Upload/loan_analyzer.py"
+  673  /usr/local/bin/python3 "/Users/kevincorstorphine/Desktop/Real Github Upload/loan_analyzer.py"
+  674  /usr/local/bin/python3 "/Users/kevincorstorphine/Desktop/Real Github Upload/loan_analyzer.py"
+  675  /usr/local/bin/python3 "/Users/kevincorstorphine/Desktop/Real Github Upload/loan_analyzer.py"
+  676  clear
+  677  /usr/local/bin/python3 "/Users/kevincorstorphine/Desktop/Real Github Upload/loan_analyzer.py"
+  678  /usr/local/bin/python3 "/Users/kevincorstorphine/Desktop/Real Github Upload/loan_analyzer.py"
+  679  /usr/local/bin/python3 "/Users/kevincorstorphine/Desktop/Real Github Upload/loan_analyzer.py"
+  680  /usr/local/bin/python3 "/Users/kevincorstorphine/Desktop/Real Github Upload/loan_analyzer.py"
+  681  /usr/local/bin/python3 "/Users/kevincorstorphine/Desktop/Real Github Upload/loan_analyzer.py"
+  682  /usr/local/bin/python3 "/Users/kevincorstorphine/Desktop/Real Github Upload/loan_analyzer.py"
+  683  /usr/local/bin/python3 "/Users/kevincorstorphine/Desktop/Real Github Upload/loan_analyzer.py"
+  684  clear
+  685  /usr/local/bin/python3 "/Users/kevincorstorphine/Desktop/Real Github Upload/loan_analyzer.py"
+  686  /usr/local/bin/python3 "/Users/kevincorstorphine/Desktop/Real Github Upload/loan_analyzer.py"
+  687  /usr/local/bin/python3 "/Users/kevincorstorphine/Desktop/Real Github Upload/loan_analyzer.py"
+  688  clear
+  689  print (inexpensive_loans)
+  690  /usr/local/bin/python3 "/Users/kevincorstorphine/Desktop/Real Github Upload/loan_analyzer.py"
+  691  /usr/local/bin/python3 "/Users/kevincorstorphine/Desktop/Real Github Upload/loan_analyzer.py"
+  692  /usr/local/bin/python3 "/Users/kevincorstorphine/Desktop/Real Github Upload/loan_analyzer.py"
+  693  clear
+  694  python --version
+  695  which space python
+  696  which python
+  697  python loan_analyzer.py
+  698  /usr/local/bin/python3 "/Users/kevincorstorphine/Desktop/Real Github Upload/loan_analyzer.py"
+  699  conda activate dev
+  700  pip -V
+  701  pip freeze
+  702  clear
+  703  pip install fire
+  704  pip install questionary
+  705  /usr/local/bin/python3 /Users/kevincorstorphine/Desktop/FinTech-Workspace/01_Loan_Qualifier_Financial_Calculations/Unsolved/app.py
+  706  /usr/local/bin/python3 /Users/kevincorstorphine/Desktop/FinTech-Workspace/01_Loan_Qualifier_Financial_Calculations/Unsolved/app.py
+  707  clear
+  708  /usr/local/bin/python3 /Users/kevincorstorphine/Desktop/FinTech-Workspace/01_Loan_Qualifier_Financial_Calculations/Unsolved/app.py
+  709  /usr/local/bin/python3 /Users/kevincorstorphine/Desktop/FinTech-Workspace/02_Loan_Qualifier_Filtering_Data/Unsolved/app.py
+  710  /usr/local/bin/python3 /Users/kevincorstorphine/Desktop/FinTech-Workspace/02_Loan_Qualifier_Filtering_Data/Unsolved/app.py
+  711  /usr/local/bin/python3 /Users/kevincorstorphine/Desktop/FinTech-Workspace/02_Loan_Qualifier_Filtering_Data/Unsolved/app.py
+  712  /usr/local/bin/python3 /Users/kevincorstorphine/Desktop/FinTech-Workspace/02_Loan_Qualifier_Filtering_Data/Unsolved/app.py
+  713  clear
+  714  /usr/local/bin/python3 /Users/kevincorstorphine/Desktop/FinTech-Workspace/02_Loan_Qualifier_Filtering_Data/Unsolved/app.py
+  715  /usr/local/bin/python3 /Users/kevincorstorphine/Desktop/FinTech-Workspace/02_Loan_Qualifier_Filtering_Data/Unsolved/app.py
+  716  clear
+  717  /usr/local/bin/python3 /Users/kevincorstorphine/Desktop/FinTech-Workspace/02_Loan_Qualifier_Filtering_Data/Unsolved/app.py
+  718  /usr/local/bin/python3 /Users/kevincorstorphine/Desktop/FinTech-Workspace/02_Loan_Qualifier_Filtering_Data/Unsolved/app.py
+  719  /usr/local/bin/python3 /Users/kevincorstorphine/Desktop/FinTech-Workspace/02_Loan_Qualifier_Filtering_Data/Unsolved/app.py
+  720  clear
+  721  /Users/kevincorstorphine/Desktop/FinTech-Workspace/02_Loan_Qualifier_Filtering_Data/Unsolved/data/daily_rate_sheet.csv
+  722  clear
+  723  /usr/local/bin/python3 /Users/kevincorstorphine/Desktop/FinTech-Workspace/02_Loan_Qualifier_Filtering_Data/Unsolved/app.py
+  724  clear
+  725  /usr/local/bin/python3 /Users/kevincorstorphine/Desktop/FinTech-Workspace/02_Loan_Qualifier_Filtering_Data/Unsolved/app.py
+  726  /usr/local/bin/python3 /Users/kevincorstorphine/Downloads/Activities/01_Stu_Python_Code_Drills/Unsolved/05-dicts-02/Unsolved/dicts-02.py
+  727  clear
+  728  owd
+  729  pwd
+  730  ls
+  731  cd Class_1_Activities
+  732  ls
+  733  cd 05_Stu_ATM_Modularization
+  734  ls
+  735  cd Unsolved
+  736  ls
+  737  /usr/local/bin/python3 /Users/kevincorstorphine/Downloads/Activities/01_Stu_Python_Code_Drills/Unsolved/05-dicts-02/Unsolved/dicts-02.py
+  738  /usr/local/bin/python3 /Users/kevincorstorphine/Downloads/Activities/01_Stu_Python_Code_Drills/Unsolved/05-dicts-02/Unsolved/dicts-02.py
+  739  cd (base) kevincorstorphine@Kevins-MacBook-Pro 05_Stu_ATM_Modularization % \n
+  740  cd (base) kevincorstorphine@Kevins-MacBook-Pro 05_Stu_ATM_Modularization % 
+  741  '/Users/kevincorstorphine/Downloads/Activities/01_Stu_Python_Code_Drills/Unsolved/05-dicts-02/Unsolved/dicts-02.py'
+  742  /usr/local/bin/python3 /Users/kevincorstorphine/Downloads/Activities/01_Stu_Python_Code_Drills/Unsolved/05-dicts-02/Unsolved/dicts-02.py
+  743  clear
+  744  /usr/local/bin/python3 /Users/kevincorstorphine/Downloads/Activities/01_Stu_Python_Code_Drills/Unsolved/05-dicts-02/Unsolved/dicts-02.py
+  745  /usr/local/bin/python3 /Users/kevincorstorphine/Downloads/Activities/01_Stu_Python_Code_Drills/Unsolved/05-dicts-02/Unsolved/dicts-02.py
+  746  /usr/local/bin/python3 /Users/kevincorstorphine/Downloads/Activities/01_Stu_Python_Code_Drills/Unsolved/05-dicts-02/Unsolved/dicts-02.py
+  747  clear
+  748  /usr/local/bin/python3 /Users/kevincorstorphine/Downloads/Activities/01_Stu_Python_Code_Drills/Unsolved/05-dicts-02/Unsolved/dicts-02.py
+  749  /usr/local/bin/python3 /Users/kevincorstorphine/Downloads/Activities/01_Stu_Python_Code_Drills/Unsolved/05-dicts-02/Unsolved/dicts-02.py
+  750  pwd
+  751  cd ^[[200~clear
+  752  clear
+  753  /Users/kevincorstorphine/Desktop/FinTech-Workspace/02_Loan_Qualifier_Filtering_Data/Unsolved/app.py
+  754  cd /Users/kevincorstorphine/Desktop/FinTech-Workspace/02_Loan_Qualifier_Filtering_Data/Unsolved/app.py
+  755  cd /Users/kevincorstorphine/Desktop/FinTech-Workspace/02_Loan_Qualifier_Filtering_Data/Unsolved/
+  756  /usr/local/bin/python3 /Users/kevincorstorphine/Desktop/FinTech-Workspace/02_Loan_Qualifier_Filtering_Data/Unsolved/app.py
+  757  clear
+  758  /usr/local/bin/python3 /Users/kevincorstorphine/Desktop/FinTech-Workspace/02_Loan_Qualifier_Filtering_Data/Unsolved/app.py
+  759  clear
+  760  /usr/local/bin/python3 /Users/kevincorstorphine/Desktop/FinTech-Workspace/02_Loan_Qualifier_Filtering_Data/Unsolved/app.py
+  761  conda activate dev
+  762  /usr/local/bin/python3 /Users/kevincorstorphine/Desktop/FinTech-Workspace/02_Loan_Qualifier_Filtering_Data/Unsolved/app.py
+  763  /usr/local/bin/python3 /Users/kevincorstorphine/Desktop/FinTech-Workspace/02_Loan_Qualifier_Filtering_Data/Unsolved/app.py
+  764  /usr/local/bin/python3 /Users/kevincorstorphine/Desktop/FinTech-Workspace/02_Loan_Qualifier_Filtering_Data/Unsolved/app.py
+  765  /usr/local/bin/python3 /Users/kevincorstorphine/Desktop/FinTech-Workspace/02_Loan_Qualifier_Filtering_Data/Unsolved/app.py
+  766  /usr/local/bin/python3 /Users/kevincorstorphine/Desktop/FinTech-Workspace/02_Loan_Qualifier_Filtering_Data/Unsolved/app.py
+  767  /usr/local/bin/python3 /Users/kevincorstorphine/Desktop/FinTech-Workspace/02_Loan_Qualifier_Filtering_Data/Unsolved/app.py
+  768  clear
+  769  /usr/local/bin/python3 /Users/kevincorstorphine/Desktop/FinTech-Workspace/02_Loan_Qualifier_Filtering_Data/Unsolved/app.py
+  770  /usr/local/bin/python3 /Users/kevincorstorphine/Desktop/FinTech-Workspace/02_Loan_Qualifier_Filtering_Data/Unsolved/app.py
+  771  activate conda dev
+  772  conda activate dev
+  773  cd /Users/kevincorstorphine/Desktop/FinTech-Workspace/02_Loan_Qualifier_Filtering_Data/Unsolved/data/test.py
+  774  python test.py
+  775  cd ..
+  776  python /Users/kevincorstorphine/Desktop/FinTech-Workspace/02_Loan_Qualifier_Filtering_Data/Unsolved/da
+  777  cd /Users/kevincorstorphine/Desktop/FinTech-Workspace/02_Loan_Qualifier_Filtering_Data/Unsolved/data   \n\n
+  778  clear
+  779  pwd
+  780  python test.py
+  781  pip install fire
+  782  pip3 install fire
+  783  python
+  784  pwd
+  785  python 
+  786  python /Users/kevincorstorphine/Desktop/FinTech-Workspace/cli.py
+  787  /Users/kevincorstorphine/Desktop/FinTech-Workspace/cli.py
+  788  python /Users/kevincorstorphine/Desktop/FinTech-Workspace/cli.py
+  789  cd /Users/kevincorstorphine/Desktop/FinTech-Workspace/cli.py
+  790  python cli.py --pants=True
+  791  pwd
+  792  cd /Users/kevincorstorphine/Downloads/01_Adding_Fire_to_the_Loan_Qualifier_App/Unsolved
+  793  ls
+  794  python app.py
+  795  pip install questionary
+  796  cd /Users/kevincorstorphine/Desktop/FinTech-Workspace/dialog.p
+  797  cd /Users/kevincorstorphine/Desktop/FinTech-Workspace
+  798  python dialog.py
+  799  python dialog.py
+  800  python dialog.py
+  801  python dialog.py
+  802  python dialog.py
+  803  python dialog.py
+  804  cd /Users/kevincorstorphine/Downloads/02_Adding_questionary_to_Loan_Qualifier/Unsolved
+  805  python app.py
+  806  cd /Users/kevincorstorphine/Downloads/02_Adding_questionary_to_Loan_Qualifier/Unsolved
+  807  python app.py --credit_score=750 --debt=5000 --income=20000
+  808  python app.py --credit_score=750 --debt=5000 --income=20000
+  809  python app.py --credit_score=750 --debt=5000 --income=20000
+  810  python app.py
+  811  python app.py --credit_score=750 --debt=5000 --income=20000
+  812  python app.py --credit_score=750 --debt=5000 --income=20000
+  813  python app.py --credit_score=750 --debt=5000 --income=20000
+  814  python app.py --credit_score=750 --debt=5000 --income=20000
+  815  python app.py --credit_score=750 --debt=5000 --income=20000
+  816  python app.py --credit_score=750 --debt=5000 --income=20000
+  817  python app.py --credit_score=750 --debt=5000 --income=20000
+  818  python app.py --credit_score=750 --debt=5000 --income=20000
+  819  python app.py --credit_score=750 --debt=5000 --income=20000
+  820  python app.py --credit_score=750 --debt=5000 --income=20000
+  821  python app.py --credit_score=750 --debt=5000 --income=20000
+  822  git config --global user.name Kevin Corstorphine
+  823  git config --global user.email kevincorstorphine@gmail.com
+  824  git config --list
+  825  git config --global user.name Kevin_Corstorphine
+  826  git config --list
+  827  pwd
+  828  ls
+  829  desktop
+  830  cd desktop
+  831  ls
+  832  ls
+  833  cd FinTech-Workspace
+  834  ls
+  835  git clone https://github.com/KCorstor/Apples.git
+  836  pwd
+  837  ls
+  838  cd apples
+  839  git status
+  840  git add README.md
+  841  git status
+  842  ls
+  843  touch
+  844  ls
+  845  touch asdf
+  846  ls
+  847  git status
+  848  git add asdf
+  849  git status
+  850  git commit -m "test commit"
+  851  git status
+  852  git push
+  853  git push
+  854  git push
+  855  git push
+  856  ls
+  857  cd ..
+  858  cd apples
+  859  git remote -v
+  860  git remote set-url origin git@github.com:KCorstor/Apples.git
+  861  git remote -v
+  862  git push
+  863  pwd
+  864  cd ..
+  865  git clone git@github.com:KCorstor/read123.git
+  866  /usr/local/bin/python3 /Users/kevincorstorphine/Desktop/FinTech-Workspace/02_Loan_Qualifier_Filtering_Data/Unsolved/data/test.py
+  867  /usr/local/bin/python3 /Users/kevincorstorphine/Desktop/FinTech-Workspace/02_Loan_Qualifier_Filtering_Data/Unsolved/data/test.py
+  868  /usr/local/bin/python3 /Users/kevincorstorphine/Desktop/FinTech-Workspace/02_Loan_Qualifier_Filtering_Data/Unsolved/data/test.py
+  869  /usr/local/bin/python3 /Users/kevincorstorphine/Desktop/FinTech-Workspace/02_Loan_Qualifier_Filtering_Data/Unsolved/data/test.py
+  870  /usr/local/bin/python3 /Users/kevincorstorphine/Desktop/FinTech-Workspace/02_Loan_Qualifier_Filtering_Data/Unsolved/data/calculator.py
+  871  /usr/local/bin/python3 /Users/kevincorstorphine/Desktop/FinTech-Workspace/02_Loan_Qualifier_Filtering_Data/Unsolved/data/calculator.py
+  872  /usr/local/bin/python3 /Users/kevincorstorphine/Desktop/FinTech-Workspace/02_Loan_Qualifier_Filtering_Data/Unsolved/data/calculator.py
+  873  /usr/local/bin/python3 /Users/kevincorstorphine/Desktop/FinTech-Workspace/02_Loan_Qualifier_Filtering_Data/Unsolved/data/calculator.py
+  874  /usr/local/bin/python3 /Users/kevincorstorphine/Desktop/FinTech-Workspace/02_Loan_Qualifier_Filtering_Data/Unsolved/data/calculator.py
+  875  /usr/local/bin/python3 /Users/kevincorstorphine/Desktop/FinTech-Workspace/02_Loan_Qualifier_Filtering_Data/Unsolved/data/test.py
+  876  /usr/local/bin/python3 /Users/kevincorstorphine/Desktop/FinTech-Workspace/02_Loan_Qualifier_Filtering_Data/Unsolved/data/test.py
+  877  /usr/local/bin/python3 /Users/kevincorstorphine/Desktop/FinTech-Workspace/02_Loan_Qualifier_Filtering_Data/Unsolved/data/test.py
+  878  /usr/local/bin/python3 /Users/kevincorstorphine/Desktop/FinTech-Workspace/02_Loan_Qualifier_Filtering_Data/Unsolved/data/test.py
+  879  /usr/local/bin/python3 /Users/kevincorstorphine/Desktop/FinTech-Workspace/02_Loan_Qualifier_Filtering_Data/Unsolved/data/test.py
+  880  /usr/local/bin/python3 /Users/kevincorstorphine/Desktop/FinTech-Workspace/02_Loan_Qualifier_Filtering_Data/Unsolved/data/test.py
+  881  /usr/local/bin/python3 /Users/kevincorstorphine/Desktop/FinTech-Workspace/02_Loan_Qualifier_Filtering_Data/Unsolved/data/app.py
+  882  /usr/local/bin/python3 /Users/kevincorstorphine/Desktop/FinTech-Workspace/02_Loan_Qualifier_Filtering_Data/Unsolved/data/app.py
+  883  /usr/local/bin/python3 /Users/kevincorstorphine/Desktop/FinTech-Workspace/02_Loan_Qualifier_Filtering_Data/Unsolved/data/app.py
+  884  /usr/local/bin/python3 /Users/kevincorstorphine/Desktop/FinTech-Workspace/02_Loan_Qualifier_Filtering_Data/Unsolved/data/app.py
+  885  /usr/local/bin/python3 /Users/kevincorstorphine/Desktop/FinTech-Workspace/02_Loan_Qualifier_Filtering_Data/Unsolved/data/app.py
+  886  clear
+  887  /usr/local/bin/python3 /Users/kevincorstorphine/Desktop/FinTech-Workspace/02_Loan_Qualifier_Filtering_Data/Unsolved/data/app.py
+  888  /usr/local/bin/python3 /Users/kevincorstorphine/Desktop/FinTech-Workspace/02_Loan_Qualifier_Filtering_Data/Unsolved/data/app.py
+  889  clear
+  890  /usr/local/bin/python3 /Users/kevincorstorphine/Desktop/FinTech-Workspace/02_Loan_Qualifier_Filtering_Data/Unsolved/data/app.py
+  891  pwd
+  892  ls
+  893  ll
+  894  ls -l
+  895  ls
+  896  ls -l
+  897  ls -la
+  898  cd 02_Loan_Qualifier_Filtering_Data
+  899  cd Unsolved/data
+  900  ls
+  901  python --version
+  902  mv ../../qualifier .
+  903  clear
+  904  /usr/local/bin/python3 /Users/kevincorstorphine/Desktop/FinTech-Workspace/02_Loan_Qualifier_Filtering_Data/Unsolved/data/app.py
+  905  /usr/local/bin/python3 /Users/kevincorstorphine/Desktop/FinTech-Workspace/02_Loan_Qualifier_Filtering_Data/Unsolved/data/app.py
+  906  /usr/local/bin/python3 /Users/kevincorstorphine/Desktop/FinTech-Workspace/02_Loan_Qualifier_Filtering_Data/Unsolved/data/app.py
+  907  /usr/local/bin/python3 /Users/kevincorstorphine/Desktop/FinTech-Workspace/02_Loan_Qualifier_Filtering_Data/Unsolved/data/app.py
+  908  /usr/local/bin/python3 /Users/kevincorstorphine/Desktop/FinTech-Workspace/02_Loan_Qualifier_Filtering_Data/Unsolved/data/app.py
+  909  /usr/local/bin/python3 /Users/kevincorstorphine/Desktop/FinTech-Workspace/02_Loan_Qualifier_Filtering_Data/Unsolved/data/app.py
+  910  /usr/local/bin/python3 /Users/kevincorstorphine/Desktop/FinTech-Workspace/02_Loan_Qualifier_Filtering_Data/Unsolved/data/app.py
+  911  clear
+  912  /usr/local/bin/python3 /Users/kevincorstorphine/Desktop/FinTech-Workspace/02_Loan_Qualifier_Filtering_Data/Unsolved/data/app.py
+  913  /usr/local/bin/python3 /Users/kevincorstorphine/Desktop/FinTech-Workspace/02_Loan_Qualifier_Filtering_Data/Unsolved/data/app.py
+  914  /usr/local/bin/python3 /Users/kevincorstorphine/Desktop/FinTech-Workspace/02_Loan_Qualifier_Filtering_Data/Unsolved/data/app.py
+  915  /usr/local/bin/python3 /Users/kevincorstorphine/Desktop/FinTech-Workspace/02_Loan_Qualifier_Filtering_Data/Unsolved/data/app.py
+  916  /usr/local/bin/python3 /Users/kevincorstorphine/Desktop/FinTech-Workspace/02_Loan_Qualifier_Filtering_Data/Unsolved/data/app.py
+  917  clear
+  918  /usr/local/bin/python3 /Users/kevincorstorphine/Desktop/FinTech-Workspace/02_Loan_Qualifier_Filtering_Data/Unsolved/data/app.py
+  919  /usr/local/bin/python3 /Users/kevincorstorphine/Desktop/FinTech-Workspace/02_Loan_Qualifier_Filtering_Data/Unsolved/data/app.py
+  920  /usr/local/bin/python3 /Users/kevincorstorphine/Desktop/FinTech-Workspace/02_Loan_Qualifier_Filtering_Data/Unsolved/data/app.py
+  921  /usr/local/bin/python3 /Users/kevincorstorphine/Desktop/FinTech-Workspace/02_Loan_Qualifier_Filtering_Data/Unsolved/data/app.py
+  922  /usr/local/bin/python3 /Users/kevincorstorphine/Desktop/FinTech-Workspace/02_Loan_Qualifier_Filtering_Data/Unsolved/data/app.py
+  923  clear
+  924  /usr/local/bin/python3 /Users/kevincorstorphine/Desktop/FinTech-Workspace/02_Loan_Qualifier_Filtering_Data/Unsolved/data/app.py
+  925  /usr/local/bin/python3 /Users/kevincorstorphine/Desktop/FinTech-Workspace/02_Loan_Qualifier_Filtering_Data/Unsolved/data/app.py
+  926  cler
+  927  clear
+  928  /usr/local/bin/python3 /Users/kevincorstorphine/Desktop/FinTech-Workspace/testo.py
+  929  /usr/local/bin/python3 /Users/kevincorstorphine/Desktop/FinTech-Workspace/testo.py
+  930  /usr/local/bin/python3 /Users/kevincorstorphine/Desktop/FinTech-Workspace/testo.py
+  931  /usr/local/bin/python3 /Users/kevincorstorphine/Desktop/FinTech-Workspace/testo.py
+  932  python
+  933  ls
+  934  python /Users/kevincorstorphine/Desktop/FinTech-Workspace/testo.py
+  935  /usr/local/bin/python3 /Users/kevincorstorphine/Desktop/FinTech-Workspace/testo.py
+  936  which python
+  937  ln -s /Users/kevincorstorphine/opt/anaconda3/bin/python /usr/local/bin/python3
+  938  rm /usr/local/bin/python3
+  939  ln -s /Users/kevincorstorphine/opt/anaconda3/bin/python /usr/local/bin/python3
+  940  /usr/local/bin/python3 /Users/kevincorstorphine/Desktop/FinTech-Workspace/testo.py
+  941  /usr/local/bin/python3 /Users/kevincorstorphine/Desktop/FinTech-Workspace/cli.py
+  942  /usr/local/bin/python3 /Users/kevincorstorphine/Desktop/FinTech-Workspace/cli.py
+  943  pwd
+  944  cd /Users/kevincorstorphine/Downloads/01_Adding_Fire_to_the_Loan_Qualifier_App/Unsolved/app.py
+  945  /usr/local/bin/python3.10 /Users/kevincorstorphine/Downloads/01_Adding_Fire_to_the_Loan_Qualifier_App/Unsolved/app.py
+  946  /usr/local/bin/python3.10 /Users/kevincorstorphine/Downloads/01_Adding_Fire_to_the_Loan_Qualifier_App/Unsolved/app.py
+  947  /usr/local/bin/python3.10 /Users/kevincorstorphine/Downloads/01_Adding_Fire_to_the_Loan_Qualifier_App/Solved/app.py
+  948  /usr/local/bin/python3.10 /Users/kevincorstorphine/Downloads/01_Adding_Fire_to_the_Loan_Qualifier_App/Solved/app.py
+  949  /usr/local/bin/python3 /Users/kevincorstorphine/Desktop/FinTech-Workspace/dialog.py
+  950  /usr/local/bin/python3 /Users/kevincorstorphine/Desktop/FinTech-Workspace/dialog.py
+  951  /usr/local/bin/python3 /Users/kevincorstorphine/Desktop/FinTech-Workspace/dialog.py
+  952  /usr/local/bin/python3 /Users/kevincorstorphine/Desktop/FinTech-Workspace/dialog.py
+  953  /usr/local/bin/python3 /Users/kevincorstorphine/Desktop/FinTech-Workspace/02_Loan_Qualifier_Filtering_Data/Unsolved/data/app.py
+  954  /usr/local/bin/python3 /Users/kevincorstorphine/Desktop/FinTech-Workspace/02_Loan_Qualifier_Filtering_Data/Unsolved/data/app.py
+  955  /usr/local/bin/python3.10 /Users/kevincorstorphine/Downloads/02_Adding_questionary_to_Loan_Qualifier/Unsolved/app.py
+  956  /usr/local/bin/python3.10 /Users/kevincorstorphine/Downloads/02_Adding_questionary_to_Loan_Qualifier/Solved/app.py
+  957  /usr/local/bin/python3.10 "/Users/kevincorstorphine/Desktop/FinTech-Workspace/Week_2/Challenge2/Starter_Code 3/loan_qualifier_app/app.py"
+  958  pwd
+  959  ls
+  960  cd Fintech-workspace
+  961  cd FinTech-Workspace
+  962  ls
+  963  cd desktop
+  964  ls
+  965  cd FinTech-Workspace
+  966  ls
+  967  git clone git@github.com:KCorstor/Challenge2.git
+  968  pwd
+  969  lss
+  970  lls
+  971  ls
+  972  cd week 2
+  973  cd Week 2
+  974  cd Week_2
+  975  ls
+  976  cd
+  977  pwd
+  978  ls
+  979  pwd
+  980  cd /Users/kevincorstorphine/Desktop/FinTech-Workspace/Week_2/Starter_Code 
+  981  git add-A
+  982  git add-a
+  983  git add.
+  984  git add .
+  985  git add-A
+  986  ls
+  987  cd /Users/kevincorstorphine/Desktop/FinTech-Workspace/Week_2/Challenge2
+  988  git add
+  989  git add .
+  990  git status
+  991  git commit-m
+  992  git -m
+  993  git commit -m
+  994  git commit -m "Getting all my starter files in the repo"
+  995  git push
+  996  python app.py
+  997  ls
+  998  cd Starter_Code 3
+  999  cd /Users/kevincorstorphine/Desktop/FinTech-Workspace/Week_2/Challenge2/Starter_Code 3/loan_qualifier_app
+ 1000  python /Users/kevincorstorphine/Desktop/FinTech-Workspace/Week_2/Challenge2/Starter_Code 3/loan_qualifier_app/app.py
+ 1001  python /Users/kevincorstorphine/Desktop/FinTech-Workspace/Week_2/Challenge2/Starter_Code 3/loan_qualifier_app/app.py
+ 1002  ls
+ 1003  cd Starter_code 3
+ 1004  ls
+ 1005  cd ..
+ 1006  cd Challenge2
+ 1007  python app.py
+ 1008  git add -a
+ 1009  git add-A
+ 1010  git add -A
+ 1011  git commit
+ 1012  /usr/local/bin/python3.10 /Users/kevincorstorphine/Desktop/FinTech-Workspace/Week_2/Challenge2/loan_qualifier_app/app.py
+ 1013  clear
+ 1014  /usr/local/bin/python3.10 /Users/kevincorstorphine/Desktop/FinTech-Workspace/Week_2/Challenge2/loan_qualifier_app/app.py
+ 1015  cd ..
+ 1016  ls
+ 1017  cd Challenge2
+ 1018  ls
+ 1019  cd loan_qualifier_app
+ 1020  cd..
+ 1021  cd ..
+ 1022  cd loan_qualifier_app
+ 1023  python app.py
+ 1024  /Users/kevincorstorphine/Desktop/FinTech-Workspace/Week_2/Challenge2/loan_qualifier_app/data/daily_rate_sheet.csv
+ 1025  python app.py
+ 1026  python app.py
+ 1027  python app.py
+ 1028  python app.py
+ 1029  /usr/local/bin/python3.10 /Users/kevincorstorphine/Desktop/FinTech-Workspace/Week_2/Challenge2/loan_qualifier_app/app.py
+ 1030  /usr/local/bin/python3.10 /Users/kevincorstorphine/Desktop/FinTech-Workspace/Week_2/Challenge2/loan_qualifier_app/app.py
+ 1031  /usr/local/bin/python3.10 /Users/kevincorstorphine/Desktop/FinTech-Workspace/Week_2/Challenge2/loan_qualifier_app/app.py
+ 1032  /usr/local/bin/python3.10 /Users/kevincorstorphine/Desktop/FinTech-Workspace/Week_2/Challenge2/loan_qualifier_app/app.py
+ 1033  /usr/local/bin/python3.10 /Users/kevincorstorphine/Desktop/FinTech-Workspace/Week_2/Challenge2/loan_qualifier_app/app.py
+ 1034  /usr/local/bin/python3.10 /Users/kevincorstorphine/Desktop/FinTech-Workspace/Week_2/Challenge2/loan_qualifier_app/app.py
+ 1035  /usr/local/bin/python3.10 /Users/kevincorstorphine/Desktop/FinTech-Workspace/Week_2/Challenge2/loan_qualifier_app/app.py
+ 1036  /usr/local/bin/python3.10 /Users/kevincorstorphine/Desktop/FinTech-Workspace/Week_2/Challenge2/loan_qualifier_app/app.py
+ 1037  /usr/local/bin/python3.10 /Users/kevincorstorphine/Desktop/FinTech-Workspace/Week_2/Challenge2/loan_qualifier_app/app.py
+ 1038  /usr/local/bin/python3.10 /Users/kevincorstorphine/Desktop/FinTech-Workspace/Week_2/Challenge2/loan_qualifier_app/app.py
+ 1039  /usr/local/bin/python3.10 /Users/kevincorstorphine/Desktop/FinTech-Workspace/Week_2/Challenge2/loan_qualifier_app/app.py
+ 1040  /usr/local/bin/python3.10 /Users/kevincorstorphine/Desktop/FinTech-Workspace/Week_2/Challenge2/loan_qualifier_app/app.py
+ 1041  /usr/local/bin/python3.10 /Users/kevincorstorphine/Desktop/FinTech-Workspace/Week_2/Challenge2/loan_qualifier_app/app.py
+ 1042  /usr/local/bin/python3.10 /Users/kevincorstorphine/Desktop/FinTech-Workspace/Week_2/Challenge2/loan_qualifier_app/app.py
+ 1043  /usr/local/bin/python3.10 /Users/kevincorstorphine/Desktop/FinTech-Workspace/Week_2/Challenge2/loan_qualifier_app/app.py
+ 1044  /usr/local/bin/python3.10 /Users/kevincorstorphine/Desktop/FinTech-Workspace/Week_2/Challenge2/loan_qualifier_app/app.py
+ 1045  pwd
+ 1046  python app.py
+ 1047  python app.py
+ 1048  /usr/local/bin/python3.10 /Users/kevincorstorphine/Desktop/FinTech-Workspace/Week_2/Challenge2/loan_qualifier_app/app.py
+ 1049  /usr/local/bin/python3.10 /Users/kevincorstorphine/Desktop/FinTech-Workspace/Week_2/Challenge2/loan_qualifier_app/app.py
+ 1050  /usr/local/bin/python3.10 /Users/kevincorstorphine/Desktop/FinTech-Workspace/Week_2/Challenge2/loan_qualifier_app/app.py
+ 1051  /usr/local/bin/python3.10 /Users/kevincorstorphine/Desktop/FinTech-Workspace/Week_2/Challenge2/loan_qualifier_app/app.py
+ 1052  python app.py
+ 1053  python app.py
+ 1054  /usr/local/bin/python3.10 /Users/kevincorstorphine/Desktop/FinTech-Workspace/Week_2/Challenge2/loan_qualifier_app/app.py
+ 1055  python app.py
+ 1056  python app.py
+ 1057  python app.py
+ 1058  python app.py
+ 1059  python app.py
+ 1060  python app.py
+ 1061  python app.py
+ 1062  python app.py
+ 1063  python app.py
+ 1064  history
+ 1065  history 50
