@@ -43,7 +43,6 @@ Here is a function for file input/output <br />
 Here is where I modified the code to ask whether the user wants to save to a CSV, and to do so if chosen:<br />
 
 '''def save_qualifying_loans(qualifying_loans):
- 
     answer = questionary.text("Do you want to save? (yes or no)").ask()
     if answer == ("yes"):
         csvpath = Path("my_output.csv")
