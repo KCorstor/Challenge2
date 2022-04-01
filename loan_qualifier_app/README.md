@@ -6,12 +6,12 @@
 
 ## Technologies
 
-This program was written in Python 3.9.7 and uses the following libraries:
-*sys*
-*fire*
-*questionary*
-*csv*
-*pathlib*
+This program was written in Python 3.9.7 and uses the following libraries:<br />
+*sys*<br />
+*fire*<br />
+*questionary*<br />
+*csv*<br />
+*pathlib*<br />
 
 
 ---
@@ -25,12 +25,12 @@ In this section, you should include detailed installation notes containing code 
 ## Usage
 
 This section should include screenshots, code blocks, or animations explaining how to use your project.
-Here are some of the filters that I'm using:
+Here are some of the filters that I'm using:<br />
 
-[credit_score_filter](qualifier/filters/credit_score.py)
-[debt_to_income_filter](qualifier/filters/debt_to_income.py)
-[loan_to_value_filter](qualifier/filters/loan_to_value.py)
-[max_loan_size_filter](qualifier/filters/max_loan_size.py)
+[credit_score_filter](qualifier/filters/credit_score.py)<br />
+[debt_to_income_filter](qualifier/filters/debt_to_income.py)<br />
+[loan_to_value_filter](qualifier/filters/loan_to_value.py)<br />
+[max_loan_size_filter](qualifier/filters/max_loan_size.py)<br />
 
 
 
