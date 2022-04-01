@@ -34,7 +34,7 @@ Here are some of the filters that I'm using:<br />
 
 
 
-(![picture of a tree](tree_picture.png)
+![picture of a tree](tree_picture.png)
 
 ---
 
