@@ -33,16 +33,13 @@ Here are the filters that I'm using:
 [max_loan_size_filter](qualifier/filters/max_loan_size.py)<br />
 
 Here are the calculators I'm using: 
-
 [calculators](qualifier/utils/calculators.py)<br />
 
-
 Here is a function for file input/output 
-
 [fileio](qualifier/utils/fileio.py)<br />
-<br />
-Here is where I modified the code to ask whether the user wants to save to a CSV, and to do so if chosen:<br />
 
+<br />
+Here is where I modified the code to ask whether the user wants to save to a CSV, and to do so if chosen:
 
 ```python
 def save_qualifying_loans(qualifying_loans):
