@@ -55,8 +55,15 @@ def save_qualifying_loans(qualifying_loans):
     else:
         print ("will not save")
 ```
-        
-
+<br />
+Here's where I edited the code to account for 0 qualifying loans: <br />
+```python
+   if len(bank_data_filtered) == int(0):
+        print("Because no loans were found, you are being exited from the program.")
+        sys.exit()
+ 
+    return bank_data_filtered
+```
 
 ![picture of a tree](tree_picture.png)
 
