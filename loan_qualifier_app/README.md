@@ -31,11 +31,12 @@ Here are the filters that I'm using:
 [debt_to_income_filter](qualifier/filters/debt_to_income.py)<br />
 [loan_to_value_filter](qualifier/filters/loan_to_value.py)<br />
 [max_loan_size_filter](qualifier/filters/max_loan_size.py)<br />
-<br />
+
 Here are the calculators I'm using: 
 
 [calculators](qualifier/utils/calculators.py)<br />
-<br />
+
+
 Here is a function for file input/output 
 
 [fileio](qualifier/utils/fileio.py)<br />
