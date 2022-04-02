@@ -1,4 +1,4 @@
-# Loan Qualifier Challenge
+# Loan Qualifier 
 **This project is a loan qualification organizer. It sifts through multiple bank programs and lets the applicant know which programs suit their needs.**
 
 
@@ -78,4 +78,4 @@ Shout out to the UC Berkeley Fintech program
 
 ## License
 
-Anyone can use this thing
+Anyone can use this
