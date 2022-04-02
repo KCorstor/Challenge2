@@ -107,7 +107,7 @@ def find_qualifying_loans(bank_data, credit_score, debt, income, loan, home_valu
     
 
 def save_qualifying_loans(qualifying_loans):
-    if len(qualifying_loans) = 0
+    if len(qualifying_loans) = int(0)
     print ("No qualifying loans were found. Exiting from program.")
         sys.exit
 
