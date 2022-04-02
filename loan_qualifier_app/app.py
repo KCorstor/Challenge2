@@ -100,26 +100,28 @@ def find_qualifying_loans(bank_data, credit_score, debt, income, loan, home_valu
 
     print(f"Found {len(bank_data_filtered)} qualifying loans")
 
+    if len(bank_data_filtered) == int(0):
+        print("Because no loans were found, you are being exited from the program.")
+        sys.exit()
+ 
+    return bank_data_filtered
+    
   
 
-    return [bank_data_filtered]
-
+  
     
 
 def save_qualifying_loans(qualifying_loans):
-    if len(qualifying_loans) = int(0)
-    print ("No qualifying loans were found. Exiting from program.")
-        sys.exit
-
+  
     answer = questionary.text("Do you want to save? (yes or no)").ask()
-    elif answer == ("yes"):
+    if answer == ("yes"):
         csvpath = Path("my_output.csv")
         with open(csvpath, 'w', newline='') as csvfile:
             csvwriter = csv.writer(csvfile)
             for row in qualifying_loans:
                 csvwriter.writerow(row)
-    else: 
-    print("Document will not be saved.")
+    else:
+        print("Document will not be saved.")
         
 
 
