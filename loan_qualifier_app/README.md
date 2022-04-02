@@ -25,18 +25,18 @@ To run the program, open up [app.py](app.py)
 
 ## Usage
 
-Here are the filters that I'm using:<br />
+Here are the filters that I'm using:
 
 [credit_score_filter](qualifier/filters/credit_score.py)<br />
 [debt_to_income_filter](qualifier/filters/debt_to_income.py)<br />
 [loan_to_value_filter](qualifier/filters/loan_to_value.py)<br />
 [max_loan_size_filter](qualifier/filters/max_loan_size.py)<br />
 <br />
-Here are the calculators I'm using: <br />
+Here are the calculators I'm using: 
 
 [calculators](qualifier/utils/calculators.py)<br />
 <br />
-Here is a function for file input/output <br />
+Here is a function for file input/output 
 
 [fileio](qualifier/utils/fileio.py)<br />
 <br />
